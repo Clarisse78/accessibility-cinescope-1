@@ -20,6 +20,12 @@ Conserver l'apparence générale
 
 ## Livrables
 
+Logins :
+
+- Marie CAZE
+- Thibaut BONEFONT
+- Lucile PELOU
+
 Vous pouvez retrouvez les constats bien formattés dans le fichier `livrables.md`. Pour les retours bruts et les corrections, voir ci dessous.
 
 ## Elements qu'on remarqués
